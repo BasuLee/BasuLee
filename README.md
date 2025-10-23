@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+I am BasuLee who is a developer from China. 
 
-<!--
-**BasuLee/BasuLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 一人公司，ai出海应用开发项目聚集地
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 1、[sumudflotillatracker.com](https://sumudflotillatracker.com)
+- 2、[shortstoryexamples.com](https://shortstoryexamples.com)
+- 3、[grow-a-garden-calculator.com](https://grow-a-garden-calculator.com)
+- 4、[grow-a-garden-wiki.com](https://grow-a-garden-wiki.com)
+- 5、[giftoframes.com](https://giftoframes.com)
+- 6、[mlaformatheader.com](https://mlaformatheader.com)
+- 7、[removeduplicatesexcel.net](https://removeduplicatesexcel.net)
