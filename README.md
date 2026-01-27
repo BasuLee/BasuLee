@@ -10,3 +10,5 @@ I am BasuLee who is a developer from China.
 - 5、[giftoframes.com](https://giftoframes.com)
 - 6、[mlaformatheader.com](https://mlaformatheader.com)
 - 7、[removeduplicatesexcel.net](https://removeduplicatesexcel.net)
+- 8、[gamepianosheets.com](https://gamepianosheets.com)
+- 9、[bananawatermarkremover.com](https://bananawatermarkremover.com)
